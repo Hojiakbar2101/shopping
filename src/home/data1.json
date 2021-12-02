@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "img": "./images/carousel1.png",
+    "title": "New Arrivals",
+    "description": "The latest styles and limited edition colors that you can only find here (while they last, that is)."
+  },
+  {
+    "id": 1,
+    "img": "./images/carousel2.png",
+    "title": "Natural Run Collection",
+    "description": "Looking for more sustainable ways to break a sweat? We’ve got you covered from head to toe."
+  },
+  {
+    "id": 2,
+    "img": "./images/carousel3.png",
+    "title": "Fresh Long Sleeve Tee Colors",
+    "description": "It’s crisp, clean and ready for wherever the day takes you."
+  }
+]

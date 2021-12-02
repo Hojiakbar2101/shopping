@@ -1,0 +1,21 @@
+[
+    {
+      "id": 0,
+      "img": "./images/shoes_man4.png",
+      "title": "Men's Trail Runner SWT",
+      "description": "Classic Color, Natural Black"
+    },
+    {
+      "id": 1,
+      "img": "./images/shoes_man5.png",
+      "title": "Women's Trail Runner SWT",
+      "description": "Classic Color, Natural White"
+    },
+    {
+      "id": 2,
+      "img": "./images/shoes_man6.png",
+      "title": "Men's Trail Runner SWT",
+      "description": "Limited Edition Color, Diablo"
+    }
+  ]
+  

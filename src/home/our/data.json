@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "title": "everyday",
+    "img": "./images/shoes.png",
+    "description": "Wool Runner",
+    "season": "Cozy Sneaker",
+    "icon": "fas fa-cloud",
+    "bool": false
+  },
+  {
+    "id": 1,
+    "title": "everyday",
+    "img": "./images/shoes1.png",
+    "description": "Tree Runner",
+    "season": "Light and Breezy Sneaker",
+    "icon": "fas fa-cloud-sun",
+    "bool": true
+  },
+  {
+    "id": 2,
+    "title": "everyday",
+    "img": "./images/shoes3.png",
+    "description": "Wool Runner Mizzle",
+    "season": "Rain-Ready Sneaker",
+    "icon": "fas fa-cloud-rain",
+    "bool": false
+  },
+  {
+    "id": 3,
+    "title": "running",
+    "img": "./images/run1.png",
+    "description": "Fast Runner",
+    "season": "sunny weather",
+    "icon": "fas fa-sun",
+    "bool": true
+  },
+  {
+    "id": 4,
+    "title": "running",
+    "img": "./images/run2.png",
+    "description": "Wool Runner",
+    "season": "Cozy Sneaker",
+    "icon": "fas fa-cloud-sun",
+    "bool": true
+  },
+  {
+    "id": 5,
+    "title": "running",
+    "img": "./images/run3.png",
+    "description": "Fast Runner",
+    "season": "sunny weather",
+    "icon": "fas fa-sun",
+    "bool": true
+  },
+  {
+    "id": 6,
+    "title": "travel",
+    "img": "https://www.boboandchichi.com/wp-content/uploads/Allbirds-wool-runners-stylish-walking-shoes-for-travel-865x577.jpg",
+    "description": "Wool Runner",
+    "season": "Cozy Sneaker",
+    "icon": "fas fa-sun",
+    "bool": true
+  },
+  {
+    "id": 7,
+    "title": "travel",
+    "img": "https://mldvwwasb8tu.i.optimole.com/5CC9Lzs.esbD~6200b/w:auto/h:auto/q:90/https://travelaway.me/wp-content/uploads/2021/06/altra-lone-peak-5.jpg",
+    "description": "Wool Runner Mizzle",
+    "season": "Rain-Ready Sneaker",
+    "icon": "fas fa-cloud",
+    "bool": false
+  },
+  {
+    "id": 8,
+    "title": "travel",
+    "img": "https://content.api.news/v3/images/bin/1fd73ba5121678f43d7aacfad9bd2353",
+    "description": "Wool Runner Mizzle",
+    "season": "Rain-Ready Sneaker",
+    "icon": "fas fa-cloud",
+    "bool": false
+  }
+]

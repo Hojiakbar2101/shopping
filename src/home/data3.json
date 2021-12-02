@@ -1,0 +1,21 @@
+[
+    {
+      "id": 0,
+      "img": "./images/stories1.png",
+      "title": "Planet-Friendly Activewear",
+      "description": "The Natural Run Collection is made with sustainable materials that can stand up to your toughest workout."
+    },
+    {
+      "id": 1,
+      "img": "./images/stories2.png",
+      "title": "adidas and Allbirds",
+      "description": "Learn more about FUTURECRAFT.FOOTPRINT, our collaborative shoe coming soon."
+    },
+    {
+      "id": 2,
+      "img": "./images/stories3.png",
+      "title": "How much did your outfit cost the planet?",
+      "description": "Now any brand can use our Carbon Footprint tools to label their emissions."
+    }
+  ]
+  
